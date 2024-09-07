@@ -1,0 +1,10 @@
+.containerr{
+    max-width: 1280px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+@import url(https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;200;300;400;500;600;800;900&display=swap);
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+}
